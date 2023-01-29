@@ -37,7 +37,7 @@ The boxplots for median incomes for each gender reveal males had a greater varia
 
 ### Variance
 
-The variance of the female and male median incomes between provinces is $ \sigma_f = 41,848,637$ and $ \sigma_m = 55,480,051$, respectively. An F-test for homogeneity of variance is performed:
+The variance of the female and male median incomes between provinces is $\sigma_f = 41,848,637$ and $\sigma_m = 55,480,051$, respectively. An F-test for homogeneity of variance is performed:
 
 - $H_0: \sigma_f = \sigma_m$, the variances for median incomes are equal
 - $H_1: \sigma_f \neq \sigma_m$, the variances are not equal 
