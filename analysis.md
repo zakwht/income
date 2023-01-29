@@ -1,3 +1,19 @@
+## Abstract 
+
+This analysis investigated the statistical significance in the difference between median total incomes for female and male income recipients in Canada (2016). Some of the results and conclusions of the analysis include:
+
+- The median total income for females is as little as 60% that of the male equivalent
+- There is a statistically significant difference in median total incomes between genders
+- The maximum female median income was less than the median male median income
+
+## Data
+
+The data for this analysis was collected from the [Government of Canada Open Data](a1b8373c-522a-4cce-87c7-a2bc8b9530e7) database:
+
+> Income Highlight Tables: Median total income, after-tax income and employment income for income recipients by sex, for Canada, provinces and territories, census divisions, census subdivisions, census metropolitan areas and census agglomerations, 2016 Census
+
+And data was taken from `98-402-X2016006-T2-CANPR-Eng.csv` ([License](https://open.canada.ca/en/open-government-licence-canada))
+
 ## Plot Analysis
 
 ### Ratio Plot
